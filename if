@@ -1,0 +1,6 @@
+distance = 500
+if distance >1000:
+print("It's a correct way")
+else:
+print("It's not a correct way")
+print("done")
